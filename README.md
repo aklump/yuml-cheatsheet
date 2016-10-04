@@ -78,7 +78,7 @@ Summarized from: <http://yuml.me/diagram/scruffy/class/samples>
 
     [Class|-privateVar:string|#protectedMethod($arg);+publicMethod($arg)]
 
-![Class Scope schema](http://yuml.me/diagram/scruffy/class/[Class|-privateVar:string|protectedMethod($arg);+publicMethod($arg)])
+![Class Scope schema](http://yuml.me/diagram/scruffy/class/[Class|-privateVar:string|%23protectedMethod($arg);+publicMethod($arg)])
 
 ## Combos
 ### Interface -> Abstract Class -> Class
